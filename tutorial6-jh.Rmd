@@ -1,0 +1,20 @@
+---
+title: "tutorial4-jh"
+author: "Hsin Janice Hsu, 32195109, hhsu0002@student.monash.edu"
+date: "4/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+`
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+head(x)
+```
+
